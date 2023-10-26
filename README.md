@@ -1,6 +1,6 @@
 # Aplikasi To Do List
 
-A new Flutter project.
+Merupakan aplikasi sederhana dengan menggunakan flutter.
 
 ## Getting Started
 
